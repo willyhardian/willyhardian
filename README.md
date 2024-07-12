@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on helping small businesses create websites to increase their traffic and improve their marketing efforts.
 - 🌱 I’m currently learning DevOps in general
 - 👯 I’m looking to collaborate on more engaging online coding education
-- 💬 Ask me about starting to learn code
+- 💬 Ask me about how to start learning to code
 - 📫 How to reach me: willyhdian@gmail.com
 - ⚡ Fun fact: I like to throw jokes in my coding class :)
 
