@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello, I'm Willy 👋
+
+- 🔭 I’m currently working on helping small businesses create websites to increase their traffic and improve their marketing efforts.
+- 🌱 I’m currently learning DevOps in general
+- 👯 I’m looking to collaborate on more engaging online coding education
+- 💬 Ask me about starting to learn code
+- 📫 How to reach me: willyhdian@gmail.com
+- ⚡ Fun fact: I like to throw jokes in my coding class :)
 
 <!--
 **willyhardian/willyhardian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
